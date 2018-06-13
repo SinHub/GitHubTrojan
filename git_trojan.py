@@ -27,7 +27,7 @@ task_queue = queue.Queue()
 # 这里的 GitHub 账号以及仓库配置可以用 yaml 文件读取或者自行做加密混淆
 username = "xxxx"
 password = "xxxx"
-repository_name = "GitHubBlackHatDemo"
+repository_name = "GitHubTrojan"
 branch_name = "master"
 
 
